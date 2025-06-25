@@ -1,4 +1,4 @@
-## 📘 Superstore Analytics Dashboard with Returns
+## 📘 Superstore Analytics Dashboard 
 
 ## 🧾 Project Title:
 **Superstore Analytics Dashboard – Sales, Profit, and Returns Analysis**
